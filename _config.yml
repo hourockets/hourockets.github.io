@@ -1,3 +1,4 @@
 title: Houston Rockets on GitHub
 description: Explore open source projects, resources, digital products and tech opportunities at the Houston Rockets
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-cayman
+markdown: kramdown
