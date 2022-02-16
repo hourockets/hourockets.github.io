@@ -2,33 +2,30 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 
-// Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
-
-// Headers
-// $header-heading-color: #fff !default;
-// $header-bg-color: #159957 !default;
-// $header-bg-color-secondary: #155799 !default;
-
-// Text
-$section-headings-color: rgb(240,240,240) !default;
-$body-text-color: #606c71 !default;
-$body-link-color: rgb(221,43,53) !default;
-$blockquote-text-color: #819198 !default;
-
-// // Code
-// $code-bg-color: #f3f6fa !default;
-// $code-text-color: #567482 !default;
-
-// // Borders
-// $border-color: #dce6f0 !default;
-// $table-border-color: #e9ebec !default;
-// $hr-border-color: #eff0f1 !default;
+:root {
+    --backgroundColor: rgb(20,20,20);
+    --cardBackgroundColor: rgb(40,43,45);
+    --primaryColor: rgb(221,43,53);
+    --primaryTextColor: rgb(240,240,240);
+    --secondaryTextColor: rgb(109,117,122);
+    --buttonBorderRadius: 8px;
+}
 
 body {
-   background-color:rgb(40,43,45);
+   background-color:#202124;
    font-family: 'Roboto', sans-serif;
+   h1,
+   h2,
+   h3,
+   h4 {
+       color: var(--primaryTextColor);
+   }
+   p {
+       font-weight: 400;
+   }
+   a {
+       color: var(--primaryColor);
+   }
 }
