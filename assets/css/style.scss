@@ -1,18 +1,4 @@
----
----
-
-@import "";
-@import "variables";
 @import "{{ site.theme }}";
-
-:root {
-    --backgroundColor: rgb(20,20,20);
-    --cardBackgroundColor: rgb(40,43,45);
-    --primaryColor: rgb(221,43,53);
-    --primaryTextColor: rgb(240,240,240);
-    --secondaryTextColor: rgb(109,117,122);
-    --buttonBorderRadius: 8px;
-}
 
 body {
     background-color: #000;
