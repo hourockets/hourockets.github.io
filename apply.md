@@ -1,4 +1,4 @@
-# Apply
+## Apply
 
 Create an initial interview request regarding a career opportunity
 
@@ -32,7 +32,7 @@ Parameters are *form urlencoded*
 **Encoded Data example**
 
 ```
-    "name=Hakeem%20Olajuwon&email=dreamshake@rockets.com&meetingAvailability=803865600000"
+"name=Hakeem%20Olajuwon&email=dreamshake@rockets.com&meetingAvailability=803865600000"
 ```
 
 ## Success Response
