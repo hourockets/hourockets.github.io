@@ -16,14 +16,17 @@
 body {
    background-color:#202124;
    font-family: 'Roboto', sans-serif;
-   h1,
-   h2,
-   h3,
-   h4 {
-       color: var(--primaryTextColor);
+   .main-content {
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: var(--primaryTextColor);
+        }
    }
    p {
        font-weight: 400;
+       color: #9aa0a6;
    }
    a {
        color: var(--primaryColor);
