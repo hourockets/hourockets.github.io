@@ -35,3 +35,7 @@ body {
     background: black;
    }
 }
+
+.page-header {
+    background: linear-gradient(45deg, transparent, var(--primaryColor));
+}
