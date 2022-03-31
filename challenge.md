@@ -1,8 +1,12 @@
 # Challenge
 
-Welcome to the Web Developer/Designer final project! If you're reading this, you've been selected to participate in building a project to distinguish yourself from other applicants and demonstrate your development skills. Congratulations on making it to this exciting stage in the process!
+🎉 Welcome to the Web Developer/Designer final project!
 
-This project is meant to take 10-20 hours of development, or approximately 5-7 days. If at any time you're unable complete the challenge, please feel free to excuse yourself - no hard feelings, no questions asked. We value your time and appreciate participation. Should you choose to accept the challenge, not only could this lead to your next career opportunity, but also an outstanding project to showcase on Github.
+If you're reading this, you've been selected to participate in building a project to distinguish yourself from other applicants and demonstrate your development skills. Congratulations on making it to this exciting stage in the process!
+
+This project is meant to take 10-20 hours of development, or approximately 5-7 days. If at any time you're unable complete the challenge, please feel free to excuse yourself - no hard feelings, no questions asked. We value your time and appreciate participation.
+
+Should you choose to accept the challenge, not only could this lead to your next career opportunity, but also an outstanding project to showcase on Github.
 
 Okay, let's get into the challenge details!
 
@@ -12,7 +16,7 @@ Build a boxscore and one additional data visualization component that you think 
 - No CSS frameworks (Bootstrap, Tailwind, etc.), just your from-scratch CSS.
 - Use whatever JS framework you want
 - Game detail API. [Read these docs](/docs/gameDetail).
-- Responsive (320px - 1400px wide viewports)
+- Responsive to a 320px minimum viewport size and larger
 - Forkable from Github, with a README on how to locally view your project. If a private repo, which I would encourage during development, please add [@mkamla](https://github.com/mkamla) as a collaborator when your project is ready for review.
 - Viewable in a modern web browser client.
 - Timely completion of the project. Preferably 7 days from delivery of project details.
@@ -28,9 +32,18 @@ Additional consideration will be given to projects that demonstrate a firm grasp
 
 The difference between ordinary and extraordinary is a little _extra_.
 
+## Submission
+Please notify Micah Kamla via email when your project is available on Github (don't forget the repo link!). A follow up email will be sent to schedule a time to review your project.
+
 ## Resources
 - [Game Detail API](/docs/gameDetail)
-- Rockets Primary Hex: #dd2b35
-- Kings Primary Hex: #663694
-- NBA Team SVG source: `https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/<TEAMABV>.svg`. Example: [https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg](https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg)
-- Player Headshot source: `https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/<PLAYERID>.png`. Example: [https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png](https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png)
+- Rockets Primary Hex: `#dd2b35`
+- Kings Primary Hex: `#663694`
+- NBA Team SVG source:
+	`https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/<TEAMABV>.svg`.
+	Example: [https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg](https://i.cdn.turner.com/nba/nba/assets/logos/teams/primary/web/HOU.svg)
+- Player Headshot source:
+	`https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/<PLAYERID>.png`.
+	Example: [https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png](https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png)
+
+Good luck!
