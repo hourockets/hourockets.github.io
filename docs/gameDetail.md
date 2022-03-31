@@ -1,8 +1,7 @@
 ## Game Detail
-This feed contains the full boxscore for a game. Updates occur in real time during live games.
-NOTE: Removed from this feed are the team season averages. This can now be found in a separate feed. The Last Meeting information has also been moved out of this feed and into the Team Schedule feed
-URL Format
-`https://htxrockets.com/api/archived-game/0022101142`
+This feed contains the full boxscore for an archived game. The archived game response will restart every 3 hours, starting at 12:00AM CDT, and will conclude in a post game state at the end of the 3 hour session. To force a particular game state response, simply provide a query parameter to your request with a valid `state` value, as illustsrated below in the Query Parameters.
+
+If no valid state parameter is provided, the response will contain the archived game response for that time, relative to the 3 hour window. For example, a request without a query parameter present, sent to the endpoint below at 1:15PM CDT will respond with a live game state in the 2nd quarter.
 
 **URL** : `/api/archived-game/0022101142`
 
