@@ -3,7 +3,7 @@ This feed contains the full boxscore for an archived game. The archived game res
 
 If no valid state parameter is provided, the response will contain the archived game response for that time, relative to the 3 hour window. For example, a request without a query parameter present, sent to the endpoint below at 1:15PM CDT will respond with a live game state in the 2nd quarter.
 
-**URL** : `/api/archived-game/0022101142`
+**URL** : `https://htxrockets.com/api/archived-game/0022101142`
 
 **Method** : `GET`
 
