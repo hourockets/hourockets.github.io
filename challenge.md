@@ -17,7 +17,7 @@ Build a boxscore and one additional data visualization component that you think 
 - Use whatever JS framework you want
 - Game detail API. [Read these docs](/docs/gameDetail).
 - Responsive to a 320px minimum viewport size and larger
-- Forkable from Github, with a README on how to locally view your project. If a private repo, which I would encourage during development, please add [@mkamla](https://github.com/mkamla) as a collaborator when your project is ready for review.
+- Forkable from Github, with a README on how to locally view your project. If a private repo, which we would encourage during development, please add [@mkamla](https://github.com/mkamla) as a collaborator when your project is ready for review.
 - Viewable in a modern web browser client.
 - Timely completion of the project. Preferably 7 days from delivery of project details.
 
@@ -33,7 +33,7 @@ Additional consideration will be given to projects that demonstrate a firm grasp
 The difference between ordinary and extraordinary is a little _extra_.
 
 ## Submission
-Please notify Micah Kamla via email when your project is available on Github (don't forget the repo link!). A follow up email will be sent to schedule a time to review your project.
+Please send an email when your project is available on Github (don't forget the repo link!). A follow up email will be sent to schedule a time to review your project.
 
 ## Resources
 - [Game Detail API](/docs/gameDetail)
