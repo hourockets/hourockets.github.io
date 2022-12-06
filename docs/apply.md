@@ -18,6 +18,7 @@ Bearer token authorization header to match the base64 value of the job title. Th
 ```
 Authorization: Bearer [base64 encoded job title]
 ```
+*Hint: job title should match the subject line our initial email communication*
 
 **Data constraints**
 Parameters are *form urlencoded*
@@ -26,7 +27,7 @@ Parameters are *form urlencoded*
 | -------------- | ----------------------------------- | :-------: | :-----------: | ---------------------------------------------------------------------------------------- |
 | `name` | `string` | True | none | Applicant's first and last name |
 | `email` | `string` | True | none | Valid contact email address |
-| `meetingAvailability` | `number` | True | none | Meeting time request in UTC timestamp format. |
+| `meetingAvailability` | `number` | True | none | Meeting time request in UTC timestamp in milliseconds. |
 | `message` | `string` | False | none | Optional field for additional applicant details |
 
 **Encoded Data example**

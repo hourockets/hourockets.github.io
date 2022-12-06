@@ -2,16 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://hou-public.s3.amazonaws.com/web/imports/rockets/css/variables/main.css');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 
-:root {
-    --backgroundColor: rgb(20,20,20);
-    --cardBackgroundColor: rgb(40,43,45);
-    --primaryColor: rgb(221,43,53);
-    --primaryTextColor: rgb(240,240,240);
-    --secondaryTextColor: rgb(109,117,122);
-    --buttonBorderRadius: 8px;
-}
+/*:root {
+    --yourSpecialVariable: 100%;
+}*/
 
 body {
    background-color:#202124;
