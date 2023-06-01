@@ -1,5 +1,5 @@
 # Brand Guidelines
-- [Official Brand Guidelines Download](https://hou-public.s3.amazonaws.com/shared/rockets-brand-guidelines.pdf)
+- [Official Brand Guidelines Download](https://d26dmzpiksq0q.cloudfront.net/shared/rockets-brand-guidelines.pdf)
 
 ## Digital Guidelines
 *Please note: brand guidlines colors have been ommitted in the above download in favor of the Digital Guidelines below*
@@ -13,8 +13,8 @@
 | `Anthracite` | `rgb(55,58,54)` | `#373A36` |  |
 
 ### CSS Theme/Global Variables
-Additionally, a CSS import that supports our production applications can be [found here](https://hou-public.s3.amazonaws.com/web/imports/rockets/css/variables/main.css). This file is subject to change. To limit unnecessary hosting costs, please use this as a reference point in your development and move to a self-hosted copy in production.
+Additionally, a CSS import that supports our production applications can be [found here](https://d26dmzpiksq0q.cloudfront.net/web/imports/rockets/css/variables/main.css). This file is subject to change. To limit unnecessary hosting costs, please use this as a reference point in your development and move to a self-hosted copy in production.
 
 ## Logos
-- Houston Rockets Logos [Download](https://hou-public.s3.amazonaws.com/shared/rockets-logos.pdf)
-- Toyota Center Logos [Download](https://hou-public.s3.amazonaws.com/shared/toyota-center-logos.pdf)
+- Houston Rockets Logos [Download](https://d26dmzpiksq0q.cloudfront.net/shared/rockets-logos.pdf)
+- Toyota Center Logos [Download](https://d26dmzpiksq0q.cloudfront.net/shared/toyota-center-logos.pdf)
